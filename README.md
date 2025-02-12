@@ -34,4 +34,4 @@ python src/main.py
 ---
 
 ## 🤝 Support & Community:
-📌 Join our Telegram/Discord for updates and help! *(Add link here)*  
+📌 Join our Telegram/Discord for updates and help! 
