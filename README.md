@@ -28,7 +28,7 @@ python src/main.py
 ---
 
 ## 🖼 Preview:
-![Banner](banner.png)  
+![Banner](banner.jpg)  
 
 
 ---
