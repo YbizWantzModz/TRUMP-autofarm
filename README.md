@@ -29,7 +29,7 @@ python src/main.py
 
 ## 🖼 Preview:
 ![Banner](banner.png)  
-![Screenshot](screenshot.png)  
+
 
 ---
 
